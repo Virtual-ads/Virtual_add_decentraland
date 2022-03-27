@@ -1,4 +1,4 @@
-# MetaAds Decentraland's Scene
+# VirtalAds Decentraland's Scene
 
 ## Description
 
